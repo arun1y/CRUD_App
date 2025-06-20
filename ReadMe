@@ -1,0 +1,2 @@
+This is simple CRUD application. We can perform CRUD operations i.e. we can add/create new list, read, update and delete it.
+This web application is build using React.js, Node.js, Express.js and MySQL.
